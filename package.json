@@ -1,0 +1,10 @@
+{
+  "name": "test-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.0.2"
+  }
+}
