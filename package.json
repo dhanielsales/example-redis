@@ -4,6 +4,9 @@
   "main": "index.js",
   "type": "module",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
   "dependencies": {
     "redis": "^4.0.2"
   }
